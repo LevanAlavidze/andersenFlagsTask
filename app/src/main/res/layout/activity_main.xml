@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <!-- Austria Flag -->
+        <!-- Austria-->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
@@ -35,7 +35,7 @@
                 android:background="#ED2939" />
         </LinearLayout>
 
-        <!-- Poland Flag -->
+        <!-- Poland-->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
@@ -54,7 +54,7 @@
                 android:background="#DC143C" />
         </LinearLayout>
 
-        <!-- Italy Flag -->
+        <!-- Italy-->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
@@ -78,7 +78,7 @@
                 android:background="#CE2B37" />
         </LinearLayout>
 
-        <!-- Colombia Flag -->
+        <!-- Colombia-->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
@@ -109,7 +109,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <!-- Madagascar Flag -->
+        <!-- Madagascar-->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
@@ -139,7 +139,7 @@
             </LinearLayout>
         </LinearLayout>
 
-        <!-- Thailand Flag -->
+        <!-- Thailand-->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
@@ -173,7 +173,7 @@
                 android:background="#A51931" />
         </LinearLayout>
 
-        <!-- Denmark Flag -->
+        <!-- Denmark-->
         <FrameLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
@@ -199,7 +199,7 @@
                 android:background="#FFFFFF" />
         </FrameLayout>
 
-        <!-- Sweden Flag -->
+        <!-- Sweden-->
         <FrameLayout
             android:layout_width="0dp"
             android:layout_height="100dp"
